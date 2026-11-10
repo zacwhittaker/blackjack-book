@@ -1,0 +1,1 @@
+{"name":"blackjack-book-api","main":"src/worker.js","compatibility_date":"2026-11-01","durable_objects":{"bindings":[{"name":"GAMES","class_name":"Game"}]},"migrations":[{"tag":"v1","new_sqlite_classes":["Game"]}]}
